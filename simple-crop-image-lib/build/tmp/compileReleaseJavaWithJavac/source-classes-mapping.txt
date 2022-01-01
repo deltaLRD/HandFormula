@@ -1,0 +1,39 @@
+eu/janmuller/android/simplecropimage/CropImage.java
+ eu.janmuller.android.simplecropimage.CropImage
+ eu.janmuller.android.simplecropimage.CropImage$1
+ eu.janmuller.android.simplecropimage.CropImage$2
+ eu.janmuller.android.simplecropimage.CropImage$3
+ eu.janmuller.android.simplecropimage.CropImage$4
+ eu.janmuller.android.simplecropimage.CropImage$5
+ eu.janmuller.android.simplecropimage.CropImage$5$1
+ eu.janmuller.android.simplecropimage.CropImage$6
+ eu.janmuller.android.simplecropimage.CropImage$7
+ eu.janmuller.android.simplecropimage.CropImage$7$1
+eu/janmuller/android/simplecropimage/RotateBitmap.java
+ eu.janmuller.android.simplecropimage.RotateBitmap
+eu/janmuller/android/simplecropimage/HighlightView.java
+ eu.janmuller.android.simplecropimage.HighlightView
+ eu.janmuller.android.simplecropimage.HighlightView$ModifyMode
+eu/janmuller/android/simplecropimage/BitmapManager.java
+ eu.janmuller.android.simplecropimage.BitmapManager
+ eu.janmuller.android.simplecropimage.BitmapManager$1
+ eu.janmuller.android.simplecropimage.BitmapManager$State
+ eu.janmuller.android.simplecropimage.BitmapManager$ThreadSet
+ eu.janmuller.android.simplecropimage.BitmapManager$ThreadStatus
+eu/janmuller/android/simplecropimage/BuildConfig.java
+ eu.janmuller.android.simplecropimage.BuildConfig
+eu/janmuller/android/simplecropimage/Util.java
+ eu.janmuller.android.simplecropimage.Util
+ eu.janmuller.android.simplecropimage.Util$BackgroundJob
+ eu.janmuller.android.simplecropimage.Util$BackgroundJob$1
+eu/janmuller/android/simplecropimage/MonitoredActivity.java
+ eu.janmuller.android.simplecropimage.MonitoredActivity
+ eu.janmuller.android.simplecropimage.MonitoredActivity$LifeCycleAdapter
+ eu.janmuller.android.simplecropimage.MonitoredActivity$LifeCycleListener
+eu/janmuller/android/simplecropimage/CropImageView.java
+ eu.janmuller.android.simplecropimage.CropImageView
+eu/janmuller/android/simplecropimage/ImageViewTouchBase.java
+ eu.janmuller.android.simplecropimage.ImageViewTouchBase
+ eu.janmuller.android.simplecropimage.ImageViewTouchBase$1
+ eu.janmuller.android.simplecropimage.ImageViewTouchBase$2
+ eu.janmuller.android.simplecropimage.ImageViewTouchBase$Recycler
